@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.baraabytes</groupId>
 	<artifactId>AnimalClinic</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>AnimalClinic</name>
 	<description>Animal Clinic Spring Boot</description>
 
@@ -48,8 +48,8 @@
 		</plugins>
 	</build>
 <scm>
-	<developerConnection>scm:git:https://github.com/BaraaSoft/AnimalClinic.git
+	<developerConnection>scm:git:git@github.com:BaraaSoft/AnimalClinic.git
 	</developerConnection>
-  <tag>AnimalClinic-0.0.2</tag>
+  <tag>HEAD</tag>
   </scm>
 </project>
