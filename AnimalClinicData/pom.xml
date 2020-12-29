@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.baraabytes</groupId>
 	<artifactId>AnimalClinicData</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>AnimalClinicData</name>
 	<description>Animal Clinic Spring Boot</description>
 
