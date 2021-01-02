@@ -5,8 +5,6 @@ import com.baraabytes.AnimalClinicData.entity.Vet;
 
 import java.util.Set;
 
-public interface OwnerService {
-    Owner findById(Long id);
-    Owner save(Owner vet);
-    Set<Owner> findAll();
+public interface OwnerService extends CrudService <Owner,Long>{
+   Owner findByLastName(String lastname);
 }
